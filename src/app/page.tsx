@@ -10,7 +10,7 @@ export default function Home() {
     text-green-900">
      SHUBHAM SHIKHAR JEWELLERS
      <br />
-     Updeted websS
+     Updeted webs
     </div>
 
       <div>
